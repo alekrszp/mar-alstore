@@ -44,5 +44,3 @@ npx expo start
 - **Dicas rápidas:**
 	- Se algo travar, tente `npx expo start -c`.
 	- Mantenha Node e Expo atualizados para evitar incompatibilidades.
-
-
